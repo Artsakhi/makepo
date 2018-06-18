@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+msgid "Makepo"
+msgstr "Makepo"
+
+msgid "======"
+msgstr "======"
+
+msgid "<概要>"
+msgstr "<Overview>"
+
+msgid "要素を改行で区切ったtxtファイルからpoファイルを出力します。"
+msgstr ""
+"It outputs po-file from txt-file with elements separated by line breaks."
+
+msgid "<使用手順>"
+msgstr "<How to use>"
+
+msgid "1. 要素を改行で区切ったtxtファイルを用意する。"
+msgstr "1. Prepare txt-file with elements separated by line breaks."
+
+msgid "2. そのtxtファイルをmakepo.exeにドラッグして実行する。"
+msgstr "2. Drag the txt-file to \"makepo.exe\". Then the exe-file is executed."
+
+msgid "3. output.poが出力される。"
+msgstr "3. \"output.po\" is output."
+
+msgid "<使用上の注意>"
+msgstr "<Usage note>"
+
+msgid "動作が確認された環境はWindows10Homeのみです"
+msgstr "Environment that is checked behavior is only Windows10 Home."
