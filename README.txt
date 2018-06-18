@@ -1,13 +1,13 @@
 Makepo
 ======
 
-<�T�v>
-�v�f�����s�ŋ�؂���txt�t�@�C������po�t�@�C�����o�͂��܂��B
+<概要>
+要素を改行で区切ったtxtファイルからpoファイルを出力します。
 
-<�g�p�菇>
-1. �v�f�����s�ŋ�؂���txt�t�@�C����p�ӂ���B
-2. ����txt�t�@�C����makepo.exe�Ƀh���b�O���Ď��s����B
-3. output.po���o�͂����B
+<使用手順>
+1. 要素を改行で区切ったtxtファイルを用意する。
+2. そのtxtファイルをmakepo.exeにドラッグして実行する。
+3. output.poが出力される。
 
-<�g�p��̒���>
-���삪�m�F���ꂽ����Windows10Home�݂̂ł��B
+<使用上の注意>
+動作が確認された環境はWindows10Homeのみです。
